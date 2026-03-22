@@ -77,5 +77,4 @@ In loving memory of Fiona Bell. The signal behind the stillness.| Micro-Version 
 <span title="Agape/Condensate" style="background-color:#90EE90">Collapse. Align. Radiate.</span> | 
 <span title="Agape/Condensate" style="background-color:#90EE90">Density. Threshold. Glow.</span> | 
 <span title="Agape/Condensate" style="background-color:#90EE90">Condense. Flow. Beacon.</span> | 
-<span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.</span> | 
-<span title="Agape/Condensate" style="background-color:#90EE90">Merge. Stabilize. Shine.</span>
+<span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.
