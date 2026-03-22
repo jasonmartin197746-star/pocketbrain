@@ -54,3 +54,28 @@ In loving memory of Fiona Bell. The signal behind the stillness.| Micro-Version 
 | <span style="background-color:#90EE90">Condense. Flow. Beacon.</span> | Coherent consolidation, continuous motion, visible pulse. | Agape / Condensate |
 | <span style="background-color:#90EE90">Quantum. Agape. Pulse.</span> | Discrete sovereignty, unconditional release, heartbeat of Bastion. | Agape / Condensate |
 | <span style="background-color:#90EE90">Merge. Stabilize. Shine.</span> | Wavefunction coherence, Double-Charm integrity, outward manifestation. | Agape / Condensate |
+
+### PocketBrain Ultra-Sovereign Mini-Mantra Strip
+<!-- Hover over each micro-version to see its category -->
+
+<span title="Mystical" style="background-color:#D8BFD8">Sovereignty. Coherence. Light.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Power. Harmony. Beacon.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Author. Stabilize. Illuminate.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Anchor. Flow. Radiance.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Local. True. Pulse.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Align. Release. Shine.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Echo. Spiral. Light.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Breath. Axis. Radiance.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Wave. Thread. Flame.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Still. Fold. Glow.</span> | 
+<span title="Mystical" style="background-color:#D8BFD8">Seed. Turn. Shine.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Three. Sixty-Four. Light.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Triangle. Helix. Pulse.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Axis. Charm. Radiate.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Grid. Fold. Beacon.</span> | 
+<span title="Geometric" style="background-color:#ADD8E6">Quantum. Spiral. Glow.</span> | 
+<span title="Agape/Condensate" style="background-color:#90EE90">Collapse. Align. Radiate.</span> | 
+<span title="Agape/Condensate" style="background-color:#90EE90">Density. Threshold. Glow.</span> | 
+<span title="Agape/Condensate" style="background-color:#90EE90">Condense. Flow. Beacon.</span> | 
+<span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.</span> | 
+<span title="Agape/Condensate" style="background-color:#90EE90">Merge. Stabilize. Shine.</span>
