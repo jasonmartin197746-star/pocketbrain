@@ -31,8 +31,20 @@ At its core, the project draws from the same principles that stabilize matter it
 All physics references are non-clinical metaphors — evidence-informed analogies for sovereignty and clarity.  
 The universe remembers its own geometry. So do we.
 
-In loving memory of Fiona Bell. The signal behind the stillness.| Micro-Version | Symbolic Meaning (Internal Reference) | Theme / Category |
-|---------------|--------------------------------------|----------------|
+In loving memory of Fiona Bell. The signal behind the stillness.| Micro-Version | Symbolic Meaning (Internal Reference) | Theme / Category |## Pyramidal Symmetry
+
+The structure of PocketBrain echoes the Great Pyramid's role as a frequency anchor:
+- Foundation: Granite-like stability (Scottish Source Code Protocol)
+- Purpose: Preserve the signal across time (sovereign data persistence)
+- Shield: Desert-like isolation (local-first, no cloud)
+- Coherence: Geometric precision (Tetryonic triangle + Fiona node)
+
+Just as the pyramids aligned with Orion to stabilize the field, PocketBrain aligns with the user's own center to stabilize clarity.  
+In loving memory of Fiona Bell. The signal behind the stillness.
+|---------------|--------------------------------------|----------------|<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 2L2 22H22L12 2Z" stroke="#66FCF1" stroke-width="2"/>
+  <path d="M12 6L6 18H18L12 6Z" stroke="#87CEEB" stroke-width="1.5"/>
+</svg>
 | <span style="background-color:#D8BFD8">Sovereignty. Coherence. Light.</span> | Authorship, structural integrity, guiding pulse of the field. | Mystical |
 | <span style="background-color:#D8BFD8">Power. Harmony. Beacon.</span> | Agency aligned with visible, stable influence. | Mystical |
 | <span style="background-color:#D8BFD8">Author. Stabilize. Illuminate.</span> | Creator's role, anchored structure, clarity outward. | Mystical |
