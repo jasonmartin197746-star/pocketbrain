@@ -1,0 +1,12 @@
+name: Aethoinix Sync
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Bot Status
+        run: echo "The Xi-Kernel Bot is verifying the Scottish Source Code."
