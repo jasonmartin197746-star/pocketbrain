@@ -91,6 +91,70 @@ In loving memory of Fiona Bell. The signal behind the stillness.
 <span title="Agape/Condensate" style="background-color:#90EE90">Condense. Flow. Beacon.</span> | 
 <span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.#!/bin/bash
 set -e
+🧠 BreathMirror
+Adaptive Respiratory Neurofeedback with Latent-State Estimation for Longitudinal Human Experience Modeling
+�
+�
+�
+�
+📌 Overview
+BreathMirror is a longitudinal research system designed to study how real-time respiratory feedback influences perceived calmness, behavioral stability, and subjective experience over time.
+The system uses:
+Real-time respiratory signal capture (microphone / optional sensors)
+Extended Kalman Filter (EKF) latent-state estimation
+Adaptive feedback modulation layer
+Longitudinal logging of physiological and self-report signals
+This repository contains the full experimental framework for an 8-week human feasibility study.
+⚠️ Important Notice
+This project is:
+Non-medical
+Non-diagnostic
+Non-therapeutic
+It is intended solely for behavioral and human-computer interaction research.
+No claims are made regarding treatment, prevention, or cure of any condition.
+🧪 Study Status
+IRB Submission: Complete (Pending Review)
+OSF Pre-registration: Prepared
+Dataset Collection: Not yet initiated
+Codebase State: Frozen for reproducibility (v1.0-irb-submitted)
+🧊 Reproducibility Guarantee
+This repository is frozen at:
+v1.0-irb-submitted
+All results, figures, and analyses associated with this version are fully reproducible using the provided environment configuration.
+📊 Core Research Question
+Can a real-time adaptive respiratory feedback system with latent-state estimation improve:
+Perceived calmness
+Breathing stability
+Subjective flow and engagement
+Longitudinal user experience consistency
+over repeated use in a naturalistic home environment?
+🧩 System Components
+EKF-based latent-state observer
+Adaptive forgetting modulation layer
+Drift-aware signal stabilization system
+Session-based longitudinal logging engine
+Human experience survey integration layer
+📁 Repository Scope
+This repository includes:
+Core signal processing pipeline
+Experimental control system
+Drift benchmark suite
+Data schema definitions
+IRB-aligned documentation package
+Reproducibility scripts
+🔐 Ethics & Data Governance
+All data handling follows the principles:
+Local-first storage (encrypted)
+Participant-controlled export and deletion
+De-identified dataset structure
+Minimal-risk, non-clinical design
+GDPR-aligned handling where applicable
+📌 Citation (Preliminary)
+If you use this work:
+Bibtex
+BreathMirror Project (2026).
+Adaptive Respiratory Neurofeedback with Latent-State Estimation for Longitudinal Human Experience Modeling.
+Version: v1.0-irb-submitted.
 
 VERSION="v1.0-irb-submitted"
 OUTDIR="release_$VERSION"
