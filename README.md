@@ -89,4 +89,43 @@ In loving memory of Fiona Bell. The signal behind the stillness.
 <span title="Agape/Condensate" style="background-color:#90EE90">Collapse. Align. Radiate.</span> | 
 <span title="Agape/Condensate" style="background-color:#90EE90">Density. Threshold. Glow.</span> | 
 <span title="Agape/Condensate" style="background-color:#90EE90">Condense. Flow. Beacon.</span> | 
-<span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.
+<span title="Agape/Condensate" style="background-color:#90EE90">Quantum. Agape. Pulse.#!/bin/bash
+set -e
+
+VERSION="v1.0-irb-submitted"
+OUTDIR="release_$VERSION"
+
+mkdir -p $OUTDIR
+
+# Copy core reproducibility artifacts
+cp -r src $OUTDIR/
+cp -r configs $OUTDIR/
+cp -r figures $OUTDIR/
+cp README.md $OUTDIR/
+cp requirements.txt $OUTDIR/
+
+# Copy IRB dossier
+cp IRB_Dossier.pdf $OUTDIR/ 2>/dev/null || true
+
+# Create archives
+tar -czf ${VERSION}.tar.gz $OUTDIR
+zip -r ${VERSION}.zip $OUTDIR
+
+# Generate checksum
+sha256sum ${VERSION}.tar.gz > ${VERSION}_sha256.txt
+sha256sum ${VERSION}.zip >> ${VERSION}_sha256.txt
+
+echo "Release package created: $VERSION"chmod +x package.sh
+./package.shMetadata (copy exactly)
+Title: BreathMirror v1.0 IRB Submission Freeze
+Type: Software / Dataset
+Version: v1.0-irb-submitted
+Description:
+Reproducible codebase and artifacts for an 8-week longitudinal pilot study on adaptive respiratory neurofeedback with latent-state estimation.
+Keywords:
+neurofeedback
+respiratory signal processing
+kalman filter
+longitudinal study
+human-computer interaction
+License: MIT (code) + CC BY 4.0 (data)
